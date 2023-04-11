@@ -1,5 +1,6 @@
 # Personal_Portfolio
-Este proyecto es totalmente libre y puedes usarlo como plantilla para tú propio portafolio :D 
+Este sitio web fue creado utilizando tecnologías como HTML5, CSS3, JS, PHP y MySQL.
+Este proyecto es totalmente libre y puedes usarlo como plantilla para tú propio portafolio :D
 En este portafolio te cuento un poco de quién soy, qué hago, por qué estoy aquí y en qué proyectos he participado, digamos que es como un pequeño brochazo de información acerca de mí sí deseas contactarme para tú empresa o idea de negocio.
 
 ## Funcionalidades
