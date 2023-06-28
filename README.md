@@ -68,5 +68,4 @@ If you want to run this project in your own development environment, follow thes
 4. Import the database.sql file into your database.
 5. Open the index.php file on your web server to see the website in action.
 
-
 The portfolio will aim to be built by June 2023.
